@@ -1,0 +1,7 @@
+public class Reverse STtring{
+  public static void main(String[]args){
+    stringstr="Automation";
+    stringBuilder reversed=new string Builder(str).reverse();
+    system.out.println(reversed);
+    }
+  }
